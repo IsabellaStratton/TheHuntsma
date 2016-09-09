@@ -53,7 +53,7 @@ div.img img {
 
 .hunt{
 	 display: flex;
-  background-image: url("img/PrismaBildagentur.jpg");
+  background-image: url("Img/PrismaBildagentur.jpg");
   background-size: cover;
   color: #ffffff;
  height: 700px
@@ -63,7 +63,7 @@ div.img img {
 .contact {
   display: flex;
   align-items: center;
-  background-image: url("img/Deco.jpg");
+  background-image: url("Img/Deco.jpg");
   background-size: max;
   color: #ffffff;
   height: 500px;
@@ -88,7 +88,7 @@ div.img img {
 .about {
 	display: flex;
   align-items: center;
-  background-image: url("img/andrewridley.jpg");
+  background-image: url("Img/andrewridley.jpg");
   background-size: max;
   color: #ffffff;
   height: 500px;
@@ -101,7 +101,7 @@ div.img img {
 .details {
 	display: flex;
   align-items: center;
-  background-image: url("img/WalterBibikow.jpg");
+  background-image: url("Img/WalterBibikow.jpg");
   background-size: max;
   color: #ffffff;
   height: 800px;
@@ -113,7 +113,7 @@ div.img img {
 .checkout {
 	display: flex;
   align-items: center;
-  background-image: url("img/AlexandrosMaragos.jpg");
+  background-image: url("Img/AlexandrosMaragos.jpg");
   background-size: 100%;
   color: #ffffff;
   height: 700px;
@@ -126,7 +126,7 @@ div.img img {
 .profile {
 	display: flex;
   align-items: center;
-  background-image: url("img/DonnieSexton.jpg");
+  background-image: url("Img/DonnieSexton.jpg");
   background-size: 60%;
   color: #ffffff;
   height: 500px;
@@ -140,7 +140,7 @@ div.img img {
 .login {
 	display: flex;
   align-items: center;
-  background-image: url("img/DickPitini.jpg");
+  background-image: url("Img/DickPitini.jpg");
   background-size: 60%;
   color: #ffffff;
   height: 500px;
