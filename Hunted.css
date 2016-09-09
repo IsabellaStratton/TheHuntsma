@@ -1,0 +1,209 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+}
+
+header {
+  padding: 5px 0;
+ 
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+  font-family:"Lucida Console", Monaco, monospace, sans-serif;
+  float: left;
+}
+
+header p {
+  padding: 20px;
+  margin: 0;
+}
+
+div.img {
+    margin: 5px;
+    float: right;
+    width: 100px;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+	
+
+.homep {
+  display: flex;
+  align-items: center;
+  background-image: url("img/JoanaBochecha.jpg");
+  background-size: cover;
+  color: #ffffff;
+  height: 700px;
+}
+
+.homep h2 {
+  font-size: 72px;
+  font-weight: 600;
+  margin: 0;
+  color: rgb(0,0,0);
+}
+
+.hunt{
+	 display: flex;
+  background-image: url("img/PrismaBildagentur.jpg");
+  background-size: cover;
+  color: #ffffff;
+ height: 700px
+}
+
+
+.contact {
+  display: flex;
+  align-items: center;
+  background-image: url("img/Deco.jpg");
+  background-size: max;
+  color: #ffffff;
+  height: 500px;
+}
+
+.contact td {
+	padding: 20px;
+}
+
+.contact p {
+	color: black;
+}
+
+.contact h1 {
+	color: black;
+	margin: 10px;
+	hover: background-color:#fff;
+}
+
+.contact tr:hover{background-color:#f5f5f5}
+
+.about {
+	display: flex;
+  align-items: center;
+  background-image: url("img/andrewridley.jpg");
+  background-size: max;
+  color: #ffffff;
+  height: 500px;
+}
+
+.about td {
+	padding: 20px;
+}
+
+.details {
+	display: flex;
+  align-items: center;
+  background-image: url("img/WalterBibikow.jpg");
+  background-size: max;
+  color: #ffffff;
+  height: 800px;
+}
+
+.details td {
+	padding: 20px;
+}
+.checkout {
+	display: flex;
+  align-items: center;
+  background-image: url("img/AlexandrosMaragos.jpg");
+  background-size: 100%;
+  color: #ffffff;
+  height: 700px;
+}
+
+.checkout td {
+	padding: 20px;
+}
+
+.profile {
+	display: flex;
+  align-items: center;
+  background-image: url("img/DonnieSexton.jpg");
+  background-size: 60%;
+  color: #ffffff;
+  height: 500px;
+}
+
+.profile td{
+	padding: 20px;
+
+}
+
+.login {
+	display: flex;
+  align-items: center;
+  background-image: url("img/DickPitini.jpg");
+  background-size: 60%;
+  color: #ffffff;
+  height: 500px;
+}
+
+.login td{
+	padding: 20px;
+
+}
+
+tr, th, td {
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+	color: black;
+}
+
+.btn {
+  color: #bcd7ca;
+  margin:5px;
+  font-family:"Lucida Console", Monaco, monospace
+  
+}
+
+.btn:hover {
+   color: rgb(0,0,0);
+  background-color: #bcd7ca;
+}
+
+.dropbtn {
+    background-color: #bcd7ca;
+    color: white;
+    padding: 9px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+	float: right;
+}
+
+.dropdown-content {
+    display: none;
+	font-family: 'Roboto', sans-serif;
+	color: #000;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+	background-color: #99CCCC;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 5px 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
