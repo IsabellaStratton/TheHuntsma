@@ -38,7 +38,7 @@ div.img img {
 .homep {
   display: flex;
   align-items: center;
-  background-image: url("img/JoanaBochecha.jpg");
+  background-image: url("JoanaBochecha.jpg");
   background-size: cover;
   color: #ffffff;
   height: 700px;
