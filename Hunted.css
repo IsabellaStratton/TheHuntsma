@@ -64,9 +64,9 @@ div.img img {
   display: flex;
   align-items: center;
   background-image: url("Img/Deco.jpg");
-  background-size: 60%;
+  background-size: 35%;
   color: #ffffff;
-  height: 900px;
+  height: 800px;
 }
 
 .contact td {
