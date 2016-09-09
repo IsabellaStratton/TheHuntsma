@@ -41,7 +41,7 @@ div.img img {
   background-image: url("Img/JoanaBochecha.jpg");
   background-size: cover;
   color: #ffffff;
-  height: 700px;
+  height: 1400px;
 }
 
 .homep h2 {
@@ -56,7 +56,7 @@ div.img img {
   background-image: url("Img/PrismaBildagentur.jpg");
   background-size: cover;
   color: #ffffff;
- height: 700px
+ height: 1400px
 }
 
 
@@ -64,9 +64,9 @@ div.img img {
   display: flex;
   align-items: center;
   background-image: url("Img/Deco.jpg");
-  background-size: max;
+  background-size: 60%;
   color: #ffffff;
-  height: 500px;
+  height: 900px;
 }
 
 .contact td {
@@ -89,9 +89,9 @@ div.img img {
 	display: flex;
   align-items: center;
   background-image: url("Img/andrewridley.jpg");
-  background-size: max;
+  background-size: 60%;
   color: #ffffff;
-  height: 500px;
+  height: 800px;
 }
 
 .about td {
@@ -102,9 +102,9 @@ div.img img {
 	display: flex;
   align-items: center;
   background-image: url("Img/WalterBibikow.jpg");
-  background-size: max;
+  background-size: 60%;
   color: #ffffff;
-  height: 800px;
+  height: 1200px;
 }
 
 .details td {
@@ -116,7 +116,7 @@ div.img img {
   background-image: url("Img/AlexandrosMaragos.jpg");
   background-size: 100%;
   color: #ffffff;
-  height: 700px;
+  height: 1400px;
 }
 
 .checkout td {
@@ -129,7 +129,7 @@ div.img img {
   background-image: url("Img/DonnieSexton.jpg");
   background-size: 60%;
   color: #ffffff;
-  height: 500px;
+  height: 800px;
 }
 
 .profile td{
@@ -143,7 +143,7 @@ div.img img {
   background-image: url("Img/DickPitini.jpg");
   background-size: 60%;
   color: #ffffff;
-  height: 500px;
+  height: 800px;
 }
 
 .login td{
